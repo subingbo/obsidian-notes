@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "库洛面试学习/网关学习.md",
+                "file": "库洛面试学习/笔试练习.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "网关学习"
+              "title": "笔试练习"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "库洛面试学习/网关学习.md",
+                "file": "库洛面试学习/笔试练习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,8 +200,9 @@
   },
   "active": "5e7c97d49be08da1",
   "lastOpenFiles": [
-    "库洛面试学习/大小跟堆.md",
     "库洛面试学习/网关学习.md",
+    "库洛面试学习/笔试练习.md",
+    "库洛面试学习/大小跟堆.md",
     "库洛面试学习/Redis存版本号.md",
     "库洛面试学习/面试笔试错题复习笔记20261124.md",
     "欢迎.md",
